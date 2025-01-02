@@ -52,7 +52,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.preview.features.used": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/wilson.perez/Reciente",
@@ -98,7 +98,7 @@
       <workItem from="1733850040017" duration="4714000" />
       <workItem from="1733854803425" duration="4720000" />
       <workItem from="1733919578661" duration="595000" />
-      <workItem from="1735836815054" duration="1223000" />
+      <workItem from="1735836815054" duration="1895000" />
     </task>
     <servers />
   </component>
