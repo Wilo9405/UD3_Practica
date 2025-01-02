@@ -2,6 +2,10 @@
 <project version="4">
   <component name="JpaBuddyIdeaProjectConfig">
     <option name="reLastEntityCreationPackage" value="src/main/java/entities" />
+<<<<<<< HEAD
     <option name="reverseEngineeringLastDbConnectionId" value="9e6e9865-824b-4564-b8d7-a79bb21a3a31" />
+=======
+    <option name="reverseEngineeringLastDbConnectionId" value="733810b7-2715-4d95-9594-7c913edcec73" />
+>>>>>>> 4c085c0 (Añadir mi proyecto y resolver advertencias)
   </component>
 </project>
